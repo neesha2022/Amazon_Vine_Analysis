@@ -8,7 +8,8 @@
 -Use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ## Results:
-1. How Vine reviews and non-Vine reviews were there?
+![Final count.png](https://github.com/neesha2022/Amazon_Vine_Analysis/blob/main/Images/Final%20count.png)
+1. How many Vine reviews and non-Vine reviews were there?
 
 Total Vine reviews: 613
 
